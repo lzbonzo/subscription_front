@@ -3,7 +3,7 @@
     <div class="col-lg-12">
       <div class="ibox">
         <div class="ibox-title">
-          <h5>Продукты StatusPraesens</h5>
+          <h5>Продукты</h5>
 <!--          <div class="ibox-tools">-->
 <!--            <a href="{% url 'product-create' %}{% if type %}?type={{ type }}{% endif %}" class="btn btn-primary btn-xs">Добавить запись</a>-->
 <!--          </div>-->
