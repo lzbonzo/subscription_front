@@ -1,5 +1,13 @@
-# subscription_nuxt
+# subscription front
 
+## Run from docker 
+```bash
+# set available port for docker container
+$ export FRONT_PORT=<some_port>
+
+# Build and run docker container
+$ FRONT_PORT=$FRONT_PORT docker-compose up
+```
 ## Build Setup
 
 ```bash
